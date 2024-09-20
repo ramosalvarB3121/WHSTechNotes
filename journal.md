@@ -4,3 +4,7 @@
 # September 6, 2024
  The hot potatedon one and when you have to play with your friends.
  I decided to choose the one that its call the light.
+# September 17, 2024
+This is a free wek.
+# September 20, 2024
+This is a free week.
