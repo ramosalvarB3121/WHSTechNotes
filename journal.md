@@ -8,3 +8,7 @@
 This is a free wek.
 # September 20, 2024
 This is a free week.
+# September 27, 2024
+English:A visual introduction to python
+# Octuber 4, 2024
+This is a new thing for me and i feel like am leraning new things to me
