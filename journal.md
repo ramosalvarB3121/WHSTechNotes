@@ -17,3 +17,6 @@ Coding teaches you to break down complex problems into smaller manageable tasks 
 In healthcare understanding code allows collaboration with software developers to crteate better diagnostic tools.
 Coding fosters creativity by enabling innovation solution like an architect optimizing energy use in buildings or a teacher developing
 # Octuber 18, 2024
+Khan Academy - Templating webpages
+# Octuber 25, 2024
+Zumi robo cars
