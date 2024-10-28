@@ -10,13 +10,15 @@ This is a free wek.
 This is a free week.
 # September 27, 2024
 English:A visual introduction to python
-# Octuber 4, 2024
+# October 4, 2024
 This is a new thing for me and i feel like am leraning new things to me
-# Octuber 15, 2024
+# October 15, 2024
 Coding teaches you to break down complex problems into smaller manageable tasks enhancing systematic thinking.
 In healthcare understanding code allows collaboration with software developers to crteate better diagnostic tools.
 Coding fosters creativity by enabling innovation solution like an architect optimizing energy use in buildings or a teacher developing
-# Octuber 18, 2024
-Khan Academy - Templating webpages
-# Octuber 25, 2024
+# ctober 18, 2024
+https://www.khanacademy.org/
+# October 25, 2024
 Zumi robo cars
+# October 28, 2024
+In various ways impacting everthing from vote registration to ballot casting and result reporting.
