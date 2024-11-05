@@ -22,3 +22,8 @@ https://www.khanacademy.org/
 Zumi robo cars
 # October 28, 2024
 In various ways impacting everthing from vote registration to ballot casting and result reporting.
+# November 4, 2024
+Protecting personal and sensitive information is essential because it helps prevent identity theft fraud and unauthorized access to your count.
+To secure your information on platforms like Github or social media you can enable two factor authentication use strong and unique passwords and regularly review privacy setting.
+If i had shared something too personal online i would now handle it by being more cautions before posting reviewing my privacy setting.
+Balancing openness and privacy involves setting boundaries and using secure methods for communication.
