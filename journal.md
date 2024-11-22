@@ -17,7 +17,7 @@ Coding teaches you to break down complex problems into smaller manageable tasks 
 In healthcare understanding code allows collaboration with software developers to crteate better diagnostic tools.
 Coding fosters creativity by enabling innovation solution like an architect optimizing energy use in buildings or a teacher developing
 # ctober 18, 2024
-https://www.khanacademy.org/
+Technology has made food more affordable and accessible during the holiday season by increasing crop yields with precision farming, improving distribution through cold chain logistics, and enabling online grocery shopping.
 # October 25, 2024
 Zumi robo cars
 # October 28, 2024
